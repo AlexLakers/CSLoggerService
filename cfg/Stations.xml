@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stations>
+  <Station procName="InsertToStation1">
+    <Tags>
+      <Tag tagName="PressIn" tagSource="ProjectCityNN.Station1.PressIn" />
+      <Tag tagName="PressOut" tagSource="ProjectCityNN.Station1.PressOut"/>
+      <Tag tagName="ErrorCode" tagSource="ProjectCityNN.Station1.ErrorCode" />
+      <Tag tagName="Flow" tagSource="ProjectCityNN.Station1.Flow"/>	
+    </Tags>
+  </Station>
+ <Station procName="InsertToStation2">
+    <Tags>
+      <Tag tagName="LevelA" tagSource="ProjectCityNN.Station2.LevelA" />
+      <Tag tagName="LevelB" tagSource="ProjectCityNN.Station2.LevelB"/>
+      <Tag tagName="ErrorCode" tagSource="ProjectCityNN.Station2.ErrorCode" />
+      <Tag tagName="Flow" tagSource="ProjectCityNN.Station2.Flow"/>	
+    </Tags>
+  </Station>
+</Stations>
